@@ -7,7 +7,7 @@
 3. Go to commit (down left), select the things that need to be commited 
 4. change the commit message and hit "Commit" button
 5. You can check out the canges with cmd + d when on the file
-6. hit "Push" (cmd + shift + k)
+6. hit "Push" (down right) (cmd + shift + k)
 7. Check out (switch to) main branch (down right)
 8. Select the feature branch (down right) and "merge into current"
 9. Check that the "origin/main" is behind the "main" (two or more rows under it)
