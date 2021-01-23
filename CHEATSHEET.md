@@ -9,7 +9,7 @@
 5. You can check out the changes with cmd + d when on the file
 6. hit "Push" (down right) (cmd + shift + k)
 7. Check out (switch to) main branch (down right)
-8. Select the feature branch (down right) and "merge into current"
+8. Select the feature local branch (down right) and "merge into current"
 9. Check that the "origin/main" is behind the "main" (two or more rows under it)
 10. push the main branch (down right) (cmd + shift + K)
 11. Check out on github (https://github.com/FabianKoch/coursera/blob/main/module2_solution/index.html)
